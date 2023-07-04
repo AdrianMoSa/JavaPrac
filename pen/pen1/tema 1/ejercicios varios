@@ -1,0 +1,20 @@
+
+
+
+4
+4
+
+5
+
+resultado 4+4/2=4
+nota1+nota2+x/3 = notaDeseada
+a+b+x/3=d
+a+b+x=d*3
+
+x=d*3-a-b
+9
+int edat;
+int nivelEstudis;
+double ingressos;
+boolean jasp;
+jasp= edat<=28&&nivelEstudis>3||edat<30&&ingressos>28000

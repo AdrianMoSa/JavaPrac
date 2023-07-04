@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file.dtd" type="application/xml-dtd"?>
+<!-- HASTA AQUI ES PROLOGO-->
+<BIBLIOTECA><!-- ELEMENTO DE DOCUMENTO-->
+  <LIBRO>
+  <TITULO>LA REGENTA</TITULO>
+  <AUTOR>Leopoldo Alas "Clarin"</AUTOR>
+  <EDITORIAL>RBA Editores</EDITORIAL>
+  <CUBIERTA TIPO="DURA"/>
+  <CATEGORIA CLASE="FICCION"/>
+  <ISBN>ISBN-33490</ISBN>
+  <NOTA CALIF="4"/>
+  <COMENTARIOS>Es un clásico muy bueno aunque se puede hacer difícil de leer 
+</COMENTARIOS>
+</LIBRO>
+<LIBRO>
+<TITULO>DAEMON</TITULO>
+<AUTOR>Daniel Suarez</AUTOR>
+<EDITORIAL>Umbral</EDITORIAL>
+<CUBIERTA TIPO="BLANDA"/>
+<CATEGORIA CLASE="FICCION"/>
+<ISBN>ISBN-467985-1</ISBN>
+<NOTA CALIF="5"/>
+<COMENTARIOS>Una trama ciberthriller muy bien tratada, con toques de suspense y alto contenido en redes informáticas y video juegos.
+               Valido para lecturas en ciclos formativos.
+</COMENTARIOS>
+</LIBRO>
+<LIBRO>
+<TITULO>Redes Tenebrosas</TITULO>
+<AUTOR>Fco Javier Molina</AUTOR>
+<EDITORIAL>RASMA</EDITORIAL><CUBIERTA TIPO="BLANDA"/>
+<CATEGORIA CLASE="TERROR"/>
+<ISBN>ISBN-358534100</ISBN>
+<NOTA CALIF="2"/>
+<COMENTARIOS>Internet tiene algo oculto. Descubrelo en esta tenebrosa novela de terror.
+</COMENTARIOS>
+</LIBRO>
+<LIBRO>
+<TITULO>Isabel</TITULO>
+<AUTOR>Juliana Navarro</AUTOR>
+<EDITORIAL>Planeta</EDITORIAL>
+<CUBIERTA TIPO="DURA"/>
+<CATEGORIA CLASE="HISTORICO"/>
+<ISBN>ISBN-01223456-90</ISBN>
+<NOTA CALIF="3"/>
+<COMENTARIOS>Descubre la verdadera história de una de las mujeres que gobernó el reino de España
+</COMENTARIOS>
+</LIBRO><!-- Aquí podrían ir tantos libros como quisiésemos con el formato de este, donde se pueden quitar 
+los comentarios -->
+</BIBLIOTECA>
